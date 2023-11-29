@@ -1,0 +1,99 @@
+2023-10-13 17:11:46.4218|INFO|NlogImplementation.NlogOperation|Registered successfully
+2023-10-16 16:58:27.6060|INFO|NlogImplementation.NlogOperation|Registered successfully
+2023-10-18 09:42:41.6556|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-18 09:43:41.7248|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-18 09:47:39.6949|INFO|NlogImplementation.NlogOperation|Registered successfully
+2023-10-18 09:48:18.9592|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 09:56:18.9938|WARN|NlogImplementation.NlogOperation|User with the specified email not found
+2023-10-18 09:58:11.2568|WARN|NlogImplementation.NlogOperation|User with the specified email not found
+2023-10-18 10:02:18.2328|WARN|NlogImplementation.NlogOperation|User with the specified email not found
+2023-10-18 10:02:36.2118|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 10:02:36.9843|ERROR|NlogImplementation.NlogOperation|IDX10603: Decryption failed. Keys tried: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+Exceptions caught:
+ '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' (Parameter 'KeySize')
+2023-10-18 10:02:46.8737|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 10:02:46.9572|ERROR|NlogImplementation.NlogOperation|IDX10603: Decryption failed. Keys tried: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+Exceptions caught:
+ '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' (Parameter 'KeySize')
+2023-10-18 10:03:47.4927|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 10:09:12.0151|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 10:13:53.0920|WARN|NlogImplementation.NlogOperation|User with the specified email not found
+2023-10-18 10:14:32.6351|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 10:15:23.7387|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-18 10:16:46.0304|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-18 10:22:43.5668|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-18 10:29:21.4503|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 10:31:09.8941|INFO|NlogImplementation.NlogOperation|Edited successfully
+2023-10-18 11:01:33.9457|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 11:02:06.4201|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-18 11:04:32.9427|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-18 11:05:45.3542|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 11:06:14.8326|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-18 11:07:40.2696|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-18 17:37:20.4105|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-18 17:42:36.6949|INFO|NlogImplementation.NlogOperation|Added labels
+2023-10-18 17:43:22.9455|INFO|NlogImplementation.NlogOperation|Edited label successful
+2023-10-18 17:43:42.4067|INFO|NlogImplementation.NlogOperation|Got all labels
+2023-10-18 17:44:55.9617|INFO|NlogImplementation.NlogOperation|Deleted label successfully
+2023-10-18 17:44:55.9813|WARN|NlogImplementation.NlogOperation|labels not found
+2023-10-18 17:45:18.8682|WARN|NlogImplementation.NlogOperation|No labels found
+2023-10-20 12:55:12.6701|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-25 14:42:12.2469|WARN|NlogImplementation.NlogOperation|User with the specified email not found
+2023-10-25 14:42:34.0999|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-25 14:43:41.6199|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-25 14:43:51.9833|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-25 14:44:03.3095|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-25 14:44:19.4420|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-25 14:44:34.6943|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-25 14:50:26.9248|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-25 14:52:12.4298|INFO|NlogImplementation.NlogOperation|Got all labels
+2023-10-27 16:44:24.7067|INFO|NlogImplementation.NlogOperation|Registered successfully
+2023-10-27 16:44:53.7716|WARN|NlogImplementation.NlogOperation|User with the specified email not found
+2023-10-27 16:45:13.6044|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-27 16:46:34.7223|INFO|NlogImplementation.NlogOperation|Password reset successfully
+2023-10-27 16:47:14.6754|WARN|NlogImplementation.NlogOperation|Password Does not match!
+2023-10-27 16:47:28.1168|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-27 16:49:19.8039|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-27 16:49:44.3832|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-27 16:50:37.6978|INFO|NlogImplementation.NlogOperation|Edited successfully
+2023-10-27 16:51:01.3044|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-27 16:51:54.4952|INFO|NlogImplementation.NlogOperation|Get take that achived successfully
+2023-10-27 16:52:03.6531|INFO|NlogImplementation.NlogOperation|Get all task pinned successfully
+2023-10-27 16:52:11.7219|INFO|NlogImplementation.NlogOperation|trash task found
+2023-10-27 16:52:50.4017|INFO|NlogImplementation.NlogOperation|Edited successfully
+2023-10-27 16:52:58.4299|INFO|NlogImplementation.NlogOperation|Get all task pinned successfully
+2023-10-27 16:53:08.4630|INFO|NlogImplementation.NlogOperation|Get all task pinned successfully
+2023-10-27 16:53:15.0788|INFO|NlogImplementation.NlogOperation|Get take that achived successfully
+2023-10-27 16:53:27.9342|INFO|NlogImplementation.NlogOperation|trash task found
+2023-10-27 16:53:48.8878|INFO|NlogImplementation.NlogOperation|Task added archeive successfully
+2023-10-27 16:56:12.2843|INFO|NlogImplementation.NlogOperation|Task pinned successfully
+2023-10-27 16:56:19.0972|INFO|NlogImplementation.NlogOperation|Restored Notes successful
+2023-10-27 16:56:36.0042|INFO|NlogImplementation.NlogOperation|Get take that achived successfully
+2023-10-27 16:57:12.2172|INFO|NlogImplementation.NlogOperation|Added in trash successfully
+2023-10-27 17:02:28.2817|INFO|NlogImplementation.NlogOperation|Task deleted successfully
+2023-10-27 17:02:28.3070|WARN|NlogImplementation.NlogOperation| No task to Delete
+2023-10-27 17:02:51.4152|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-27 17:24:06.1626|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-27 17:24:29.2231|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-27 17:24:38.7138|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-27 17:25:14.2894|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-27 17:25:45.8799|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-27 17:25:54.2285|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-27 17:48:26.5417|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-27 17:54:51.8080|INFO|NlogImplementation.NlogOperation|Image Added Successfully
+2023-10-27 18:12:39.0362|INFO|NlogImplementation.NlogOperation|Image Added Successfully
+2023-10-30 12:33:01.1336|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-30 12:33:56.1596|INFO|NlogImplementation.NlogOperation|Added labels
+2023-10-30 12:35:58.8714|INFO|NlogImplementation.NlogOperation|Edited label successful
+2023-10-30 12:36:12.0324|INFO|NlogImplementation.NlogOperation|Got all labels
+2023-10-30 12:36:16.9081|INFO|NlogImplementation.NlogOperation|Got all labels
+2023-10-30 13:12:45.4637|INFO|NlogImplementation.NlogOperation|Got all labels
+2023-10-30 13:12:53.7545|INFO|NlogImplementation.NlogOperation|Got all labels
+2023-10-30 13:13:32.9570|INFO|NlogImplementation.NlogOperation|Deleted label successfully
+2023-10-30 13:13:32.9684|WARN|NlogImplementation.NlogOperation|labels not found
+2023-10-30 13:14:19.7590|WARN|NlogImplementation.NlogOperation|labels is null
+2023-10-30 13:18:13.8325|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-30 13:24:40.1207|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
+2023-10-30 13:24:44.7835|INFO|NlogImplementation.NlogOperation|Retrived All Notes successfully
